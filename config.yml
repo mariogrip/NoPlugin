@@ -1,0 +1,6 @@
+# Config For NoPlugins
+# You can find Color Coders here: http://i50.tinypic.com/10mmx5z.png
+Access_Denied: '&4Access Denied!, Please ask an Administrator if you believe this is an Error'
+Block_Help: 'false'
+Block_Plugins: 'true'
+Block_Version: 'false'

@@ -1,0 +1,11 @@
+name: NoPlugin
+main: com.mariogrip.NoPlugin.Main
+version: 2.1
+author: mariogrip
+commands:
+  noplugin:
+    description: NoPlugin Commands
+    usage: /noplugin <code> (use /noplugin to find codes)
+  nop:
+    description: NoPlugin Commands
+    usage: /nop <code> (use /nop to find codes)
